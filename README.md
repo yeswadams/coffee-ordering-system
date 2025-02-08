@@ -23,7 +23,7 @@ git clone https://github.com/yeswadams/coffee-ordering-system.git
 <!-- Add the scrolling text -->
 <div style="white-space: nowrap; overflow: hidden; position: relative;">
   <div style="display: inline-block; padding-left: 100%; animation: scroll-left 10s linear infinite; font-family: monospace; background-color: black; color: green;">
-    Thanks for Visiting my Repo, if you like, it please leave star⭐. Thanks for Visiting my Repo, if you like, it please leave star⭐.
+    Thanks for Visiting my Repo, if you like, it please leave star⭐.
   </div>
 </div>
 
