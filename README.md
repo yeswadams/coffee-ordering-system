@@ -15,7 +15,8 @@ Order Processing: The system processes customer orders and displays the total pr
 Cairo: The system is built using the Cairo programming language.
 Ubuntu Linux: The system is designed to run on Ubuntu Linux.
 
-Clone the repository using the following command:
+Clone the repository using the following command: <br>
+``bash
 git clone https://github.com/yeswadams/coffee-ordering-system.git
 
 Thanks for Visiting my Repo, if you like, it please leve star
