@@ -16,7 +16,8 @@ Cairo: The system is built using the Cairo programming language.
 Ubuntu Linux: The system is designed to run on Ubuntu Linux.
 
 Clone the repository using the following command: <br>
-``bash
+```bash <br>
 git clone https://github.com/yeswadams/coffee-ordering-system.git
+```
 
-Thanks for Visiting my Repo, if you like, it please leve star
+<!-- Thanks for Visiting my Repo, if you like, it please leave star!! --> <div style="white-space: nowrap; overflow: hidden; position: relative;"> <div style="display: inline-block; padding-left: 100%; animation: scroll-left 10s linear infinite; font-family: monospace; background-color: black; color: green;"> Thanks for Visiting my Repo, if you like, it please leave star!! Thanks for Visiting my Repo, if you like, it please leave star!! </div> </div> <style> @keyframes scroll-left { 0% { transform: translateX(0%); } 100% { transform: translateX(-100%); } } </style>
